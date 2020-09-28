@@ -185,7 +185,7 @@
         <type>Text</type>
     </nameField>
     <pluralLabel>Buildings</pluralLabel>
-    <searchLayouts/>
+    <searchLayouts />
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
